@@ -1,2 +1,2 @@
 # galeria-de-fotos
- Galeria com 6 fotos. Clicando na foto ela vai Abrir, E passando o mouse por cima ela Escurece.
+ Galeria com 6 fotos. Passando o mouse por cima da foto ela **Escurece**, E Clicando na foto ela vai **Abrir**!
